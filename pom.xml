@@ -6,6 +6,6 @@
   <packaging>war</packaging>
   <build>
 	<defaultGoal>install</defaultGoal>
-	<finalName>mymaven</finalName>
+	<finalName>mymaven1</finalName>
   </build>
 </project>
